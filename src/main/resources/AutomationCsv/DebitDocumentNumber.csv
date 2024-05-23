@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+Automation_wccnrwe,02-27-2023,259,inv_test_toabqequd,08-27-2022,Description,690,-68,-363,end retailer,259,Sample Test,,,Sample,,Unknown,Sample test Inmar,,611,03-27-2022,10-27-2022,Holly Hill,docwccnrwe

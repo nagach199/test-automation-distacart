@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+Automation_yhtqgxs,02-14-2023,-686,inv_test_ztoafy,11-14-2022,Description,254,-548,-392,end retailer,-686,Sample Test,,,Sample,,Unknown,Sample test Inmar,,323,06-14-2022,01-14-2023,Fresh Direct,

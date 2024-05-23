@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+FinalTest7,08-22-2021,3232,inc123,02-08-2021,decs,3300,0,-68,end retailer,3232,Sample,,,Sample,,Unknown,Sample,,6243,01-19-2021,02-02-2022,Amazon,123

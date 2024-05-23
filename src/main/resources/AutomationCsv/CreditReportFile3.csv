@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+Automation_tzaua,12-05-2022,-92,inv_test_ymplczzpq,09-05-2022,Description,703,-105,-690,end retailer,-92,Sample Test,,,Sample,,Unknown,Sample test Inmar,,507,04-05-2022,11-05-2022,HelloFresh Canada,doctzaua

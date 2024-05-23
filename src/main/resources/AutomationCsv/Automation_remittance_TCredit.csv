@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+Automation_eiznvejd,12-22-2022,-372,inv_test_ayyowsifx,06-22-2022,Description,19,-268,-123,end retailer,-372,Sample Test,,,Sample,,Unknown,Sample test Inmar,,941,01-22-2022,08-22-2022,C&S Wholesale Grocers,

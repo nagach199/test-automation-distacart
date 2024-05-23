@@ -1,0 +1,2 @@
+Payment Number,Payment Date,Payment Amount,Invoice number,Invoice Date,Invoice Description,Gross Amount,Discount,Deduction Amount,End Retailer,Net Amount,Purchase Order,Sales Order,Division,Customer Sub Group,Customer Segment,Inmar Deduction Type,Inmar Deduction Description,Notes,Promotion Number,Promotion Start Date,Promotion End Date,customer,Debit document number
+Automation_zrjywoxfy,11-29-2022,-540,inv_test_ykbjjaaf1,08-29-2022,Description,212,-331,-421,end retailer,-540,Sample Test,,,Sample,,Unknown,Sample test Inmar,,939,03-29-2022,10-29-2022,DPI - West,doczrjywoxfy
